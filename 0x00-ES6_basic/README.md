@@ -1,11 +1,11 @@
-##**ES6 Basics
+## ES6 Basics
 
-**ES6 stands for ECMAScript 6. ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015.
+ES6 stands for ECMAScript 6. ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015.
 
 JavaScript ES6 brings new syntax and new awesome features to make your code more modern and more readable. It allows you to write less code and do more. ES6 introduces us to many great features like arrow functions, template strings, class destruction, Modules… and more.
 
-Learning Objectives
-What ES6 is
+##  Learning Objectives
+<cr> What ES6 is
 New features introduced in ES6
 The difference between a constant and a variable
 Block-scoped variables
